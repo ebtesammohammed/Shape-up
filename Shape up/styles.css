@@ -1,0 +1,38 @@
+body {
+    margin-top: 4em;
+    margin-bottom: 4em;
+    
+  }
+  
+  #input-container {
+    padding-top: 1em;
+    width: 95%;
+    background-color: rgb(172, 43, 43);
+    padding-bottom: 2em;
+    border: 1px solid rgb(219, 90, 90);
+    margin-bottom: 2em;
+  }
+  
+  #content-container {
+    width: 90%;
+    background-color: rgb(113, 119, 172);
+    border: 1px solid rgb(61, 45, 153);
+    padding-top: 2em;
+    padding-bottom: 2em;
+  }
+  
+  #shape-container {
+    position: relative;
+    width: 600px;
+    height: 600px;
+    background-color: rgb(156, 117, 45);
+    border: 1px solid rgb(100, 185, 51);
+  }
+  
+  #data-container {
+    position: relative;
+    width: 300px;
+    height: 600px;
+    background-color: rgb(161, 18, 90);
+    border: 1px solid black;
+  }
